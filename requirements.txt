@@ -1,0 +1,6 @@
+torch>=2.2
+gymnasium>=0.29
+pygame>=2.5
+numpy>=1.26
+matplotlib>=3.8
+tqdm>=4.66
